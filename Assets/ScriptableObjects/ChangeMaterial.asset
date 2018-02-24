@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 735813ac1d6bc4241a4faac9d456ac9f, type: 3}
+  m_Name: ChangeMaterial
+  m_EditorClassIdentifier: 
+  Target: {fileID: 2100000, guid: bd45fb5beab2c704ebc31edb65a646a2, type: 2}
